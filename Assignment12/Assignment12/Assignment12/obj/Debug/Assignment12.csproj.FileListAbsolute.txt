@@ -1,0 +1,6 @@
+C:\Users\m9peru\Desktop\FSE\C#\Assignment12\Assignment12\Assignment12\bin\Debug\Assignment12.exe.config
+C:\Users\m9peru\Desktop\FSE\C#\Assignment12\Assignment12\Assignment12\obj\Debug\Assignment12.csprojResolveAssemblyReference.cache
+C:\Users\m9peru\Desktop\FSE\C#\Assignment12\Assignment12\Assignment12\bin\Debug\Assignment12.exe
+C:\Users\m9peru\Desktop\FSE\C#\Assignment12\Assignment12\Assignment12\bin\Debug\Assignment12.pdb
+C:\Users\m9peru\Desktop\FSE\C#\Assignment12\Assignment12\Assignment12\obj\Debug\Assignment12.exe
+C:\Users\m9peru\Desktop\FSE\C#\Assignment12\Assignment12\Assignment12\obj\Debug\Assignment12.pdb
